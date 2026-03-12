@@ -21,10 +21,12 @@ The program takes an image and:
 3. Lets the user **drag pieces with the mouse**
 4. When a piece is near its correct position, it **snaps into place on a grid**
 
-Example puzzle pieces:
+### Example puzzle pieces:
 
-![Example](jugsaw-puzzle-1.jpg)
-![Example](jugsaw-puzzle-2.jpg)
+
+![Example](images/jugsaw-puzzle-1.jpg)
+
+![Example](images/jugsaw-puzzle-2.jpg)
 
 
 
@@ -88,4 +90,5 @@ After completing this project you will understand:
  - How drag-and-drop systems work
  - How games track and update object states
  - How to structure interactive programs
+
 
