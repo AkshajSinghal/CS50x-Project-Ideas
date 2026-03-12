@@ -6,13 +6,13 @@ In this program, you chop a picture into squares, splatter the squares on the sc
 ## Difficulty:
 Advanced
 
-# 🧩 Jigsaw Puzzle
+# Jigsaw Puzzle
 
 A graphical puzzle game where an image is cut into square pieces, shuffled randomly across the screen, and the user must drag the pieces back into their correct positions.
 
 This project challenges you to implement **drag-and-drop interaction, coordinate logic, and image manipulation**.
 
-## 📸 Concept
+## Concept
 
 The program takes an image and:
 
