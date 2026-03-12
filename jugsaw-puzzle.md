@@ -91,4 +91,4 @@ After completing this project you will understand:
  - How games track and update object states
  - How to structure interactive programs
 
-
+> This idea was inspired by this [post](https://www.quora.com/Hey-Im-15-years-old-I-just-finished-cs50-and-now-I-need-ideas-for-CS50x-final-project-I-want-to-make-something-that-actually-solves-a-problem-or-something-unusual-using-my-web-programming-skills-that-I-gained) on Quora.
