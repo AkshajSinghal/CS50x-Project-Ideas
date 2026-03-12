@@ -20,10 +20,10 @@ Intermediate
 
 ## Example Usage:
 This is a Sudoku puzzle:
-![Example-Problem](https://www.quora.com/Hey-Im-15-years-old-I-just-finished-cs50-and-now-I-need-ideas-for-CS50x-final-project-I-want-to-make-something-that-actually-solves-a-problem-or-something-unusual-using-my-web-programming-skills-that-I-gained)
+![Example-Problem](images/sudoku-solver-1.jpg)
 
 This is what it looks like after the program solves it:
-![Example-Usage](https://www.quora.com/Hey-Im-15-years-old-I-just-finished-cs50-and-now-I-need-ideas-for-CS50x-final-project-I-want-to-make-something-that-actually-solves-a-problem-or-something-unusual-using-my-web-programming-skills-that-I-gained)
+![Example-Usage](images/sudoku-solver-2.jpg)
 
 ## Concepts Used:
 
