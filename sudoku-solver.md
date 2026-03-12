@@ -20,9 +20,11 @@ Intermediate
 
 ## Example Usage:
 This is a Sudoku puzzle:
+
 ![Example-Problem](images/sudoku-solver-1.jpg)
 
 This is what it looks like after the program solves it:
+
 ![Example-Usage](images/sudoku-solver-2.jpg)
 
 ## Concepts Used:
